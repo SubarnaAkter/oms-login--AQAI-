@@ -32,14 +32,14 @@
 .form-design{
     border: 1px solid #fff;
     height: auto;
-    width: 500px;
+    width: 470px;
     position: absolute;
     border-radius: 10px;
     background-color: #fff;
-    right: -50%;
+    right: -45%;
     color: #000;
-   vertical-align: middle;
-    padding: 10px;
+     top:80px;
+   padding: 2px;
 }
 .form-group{
     margin-bottom: 10px;
